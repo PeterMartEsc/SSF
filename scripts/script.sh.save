@@ -1,0 +1,9 @@
+#!/bin/bash
+
+pepe=$1
+
+juana=$2
+
+pepito=$(juana + pepe))
+
+echo "$pepito"
